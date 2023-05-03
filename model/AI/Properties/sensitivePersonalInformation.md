@@ -11,6 +11,7 @@ Records if sensitive personal information is used during model training.
 SensitivePersonalInformation notes if sensitive personal information
 is used in the training or inference of the AI models.
 This might include biometric data, addresses or other data that can be used to infer a person's identity.
+This may include references to standards or compliance for definitions of sensitive.
 
 ## Metadata
 
